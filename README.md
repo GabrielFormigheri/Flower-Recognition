@@ -2,6 +2,7 @@
 Reconhecimento de flores em uma imagem
 
 RA: 1120456 Aluno: Gabriel Formigheri Matte
+
 RA: 1120457 Aluno: João Vitor Bornaske dos Santos
 
 Link para download das imagens positivas: https://images.cv/dataset/oxeye-daisy-image-classification-dataset
